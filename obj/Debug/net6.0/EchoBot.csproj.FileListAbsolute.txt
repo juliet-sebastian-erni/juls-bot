@@ -1,0 +1,331 @@
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/appsettings.Development.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/parameters-for-template-AzureBot-with-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/parameters-for-template-BotApp-with-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/template-AzureBot-with-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/template-BotApp-with-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/parameters-for-template-AzureBot-new-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/parameters-for-template-BotApp-new-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/template-AzureBot-new-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/template-BotApp-new-rg.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/EchoBot.staticwebassets.runtime.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/EchoBot
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/appsettings.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/EchoBot.deps.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/EchoBot.runtimeconfig.json
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/EchoBot.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/EchoBot.pdb
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Builder.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Configuration.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Connector.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Connector.Streaming.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Schema.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Streaming.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.csproj.AssemblyReference.cache
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.AssemblyInfoInputs.cache
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.AssemblyInfo.cs
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.csproj.CoreCompileInputs.cache
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.MvcApplicationPartsAssemblyInfo.cs
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.MvcApplicationPartsAssemblyInfo.cache
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/staticwebassets.build.json
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/staticwebassets.development.json
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.EchoBot.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.build.EchoBot.props
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EchoBot.props
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.EchoBot.props
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/scopedcss/bundle/EchoBot.styles.css
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.csproj.CopyComplete
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/refint/EchoBot.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.pdb
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/EchoBot.genruntimeconfig.cache
+/Users/julietsebastian/Documents/Projects/juls-bot/obj/Debug/net6.0/ref/EchoBot.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Azure.Core.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Azure.Identity.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Humanizer.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.CodeDom.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Text.Json.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/julietsebastian/Documents/Projects/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/appsettings.Development.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/parameters-for-template-AzureBot-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/parameters-for-template-BotApp-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/template-AzureBot-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/template-BotApp-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/parameters-for-template-AzureBot-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/parameters-for-template-BotApp-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/template-AzureBot-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/template-BotApp-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/EchoBot.staticwebassets.runtime.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/EchoBot
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/appsettings.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/EchoBot.deps.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/EchoBot.runtimeconfig.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/EchoBot.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/EchoBot.pdb
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Azure.Core.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Azure.Identity.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Humanizer.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bot.Builder.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bot.Configuration.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bot.Connector.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bot.Connector.Streaming.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bot.Schema.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Bot.Streaming.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.CodeDom.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Text.Json.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.csproj.AssemblyReference.cache
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.AssemblyInfoInputs.cache
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.AssemblyInfo.cs
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.csproj.CoreCompileInputs.cache
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.MvcApplicationPartsAssemblyInfo.cs
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.MvcApplicationPartsAssemblyInfo.cache
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/staticwebassets.build.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/staticwebassets.development.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/staticwebassets/msbuild.EchoBot.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/staticwebassets/msbuild.build.EchoBot.props
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EchoBot.props
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.EchoBot.props
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/scopedcss/bundle/EchoBot.styles.css
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.csproj.CopyComplete
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/refint/EchoBot.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.pdb
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/EchoBot.genruntimeconfig.cache
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/obj/Debug/net6.0/ref/EchoBot.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/System.IO.Hashing.dll
+/Users/julietsebastian/Desktop/juls-bot-v6 copy/bin/Debug/net6.0/RestSharp.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/appsettings.Development.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/parameters-for-template-AzureBot-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/parameters-for-template-BotApp-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/template-AzureBot-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployUseExistResourceGroup/template-BotApp-with-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/parameters-for-template-AzureBot-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/parameters-for-template-BotApp-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/template-AzureBot-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/DeploymentTemplates/DeployWithNewResourceGroup/template-BotApp-new-rg.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/EchoBot.staticwebassets.runtime.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/EchoBot
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/appsettings.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/EchoBot.deps.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/EchoBot.runtimeconfig.json
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/EchoBot.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/EchoBot.pdb
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Azure.Core.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Azure.Identity.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Humanizer.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Builder.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Configuration.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Connector.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Connector.Streaming.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Schema.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Bot.Streaming.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/RestSharp.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.CodeDom.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.IO.Hashing.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Text.Json.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/julietsebastian/Desktop/juls-bot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.csproj.AssemblyReference.cache
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.AssemblyInfoInputs.cache
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.AssemblyInfo.cs
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.csproj.CoreCompileInputs.cache
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.MvcApplicationPartsAssemblyInfo.cs
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.MvcApplicationPartsAssemblyInfo.cache
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/staticwebassets.build.json
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/staticwebassets.development.json
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.EchoBot.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.build.EchoBot.props
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EchoBot.props
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.EchoBot.props
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/scopedcss/bundle/EchoBot.styles.css
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.csproj.CopyComplete
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.dll
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/refint/EchoBot.dll
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.pdb
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/EchoBot.genruntimeconfig.cache
+/Users/julietsebastian/Desktop/juls-bot/obj/Debug/net6.0/ref/EchoBot.dll

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "azureBotId": {
+      "value": "JulsDentalBot"
+    },
+    "azureBotSku": {
+      "value": "S1"
+    },
+    "azureBotRegion": {
+      "value": "global"
+    },
+    "botEndpoint": {
+      "value": "https://juls-dental-bot.azurewebsites.net/api/messages"
+    },
+    "appType": {
+      "value": "UserAssignedMSI"
+    },
+    "appId": {
+      "value": "fcb09417-1734-4198-9eb0-73a9eea256fe"
+    },
+    "UMSIName": {
+      "value": "JulsDentalBotIdentity"
+    },
+    "UMSIResourceGroupName": {
+      "value": "JulsDentalBotRG"
+    },
+    "tenantId": {
+      "value": "3bab932c-8099-492b-822b-b2231494b920"
+    }
+  }
+}

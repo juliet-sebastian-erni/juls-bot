@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "appServiceName": {
+      "value": "juls-dental-bot"
+    },
+    "existingAppServicePlanName": {
+      "value": ""
+    },
+    "existingAppServicePlanLocation": {
+      "value": ""
+    },
+    "newAppServicePlanName": {
+      "value": "JulsDentalBotASP"
+    },
+    "newAppServicePlanLocation": {
+      "value": "southeastasia"
+    },
+    "newAppServicePlanSku": {
+      "value": {
+        "name": "S1",
+        "tier": "Standard",
+        "size": "S1",
+        "family": "S",
+        "capacity": 1
+      }
+    },
+    "appType": {
+      "value": "UserAssignedMSI"
+    },
+    "appId": {
+      "value": "fcb09417-1734-4198-9eb0-73a9eea256fe"
+    },
+    "appSecret": {
+      "value": ""
+    },
+    "UMSIName": {
+      "value": "JulsDentalBotIdentity"
+    },
+    "UMSIResourceGroupName": {
+      "value": "JulsDentalBotRG"
+    },
+    "tenantId": {
+      "value": "3bab932c-8099-492b-822b-b2231494b920"
+    }
+  }
+}
