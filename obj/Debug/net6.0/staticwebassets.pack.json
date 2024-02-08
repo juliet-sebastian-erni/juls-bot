@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/julietsebastian/Desktop/juls-bot/wwwroot/default.html",
-      "PackagePath": "staticwebassets/default.html"
+      "Id": "C:\\Users\\sejl\\source\\repos\\juls-bot\\wwwroot\\default.html",
+      "PackagePath": "staticwebassets\\default.html"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EchoBot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EchoBot.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.EchoBot.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EchoBot.props",
       "PackagePath": "build\\EchoBot.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EchoBot.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EchoBot.props",
       "PackagePath": "buildMultiTargeting\\EchoBot.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.EchoBot.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EchoBot.props",
       "PackagePath": "buildTransitive\\EchoBot.props"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zl+Q/mwZaKDQRVExCaccR8dIjT5o5fyvtAiNZ5zr0tw=",
+  "Hash": "hXShmYMufE8btupBtqB8eaZ2R2GNP46SVvTNJcXYjqQ=",
   "Source": "EchoBot",
   "BasePath": "_content/EchoBot",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "EchoBot/wwwroot",
+      "Name": "EchoBot\\wwwroot",
       "Source": "EchoBot",
-      "ContentRoot": "/Users/julietsebastian/Desktop/juls-bot/wwwroot/",
+      "ContentRoot": "C:\\Users\\sejl\\source\\repos\\juls-bot\\wwwroot\\",
       "BasePath": "_content/EchoBot",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/julietsebastian/Desktop/juls-bot/wwwroot/default.html",
+      "Identity": "C:\\Users\\sejl\\source\\repos\\juls-bot\\wwwroot\\default.html",
       "SourceId": "EchoBot",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/julietsebastian/Desktop/juls-bot/wwwroot/",
+      "ContentRoot": "C:\\Users\\sejl\\source\\repos\\juls-bot\\wwwroot\\",
       "BasePath": "_content/EchoBot",
       "RelativePath": "default.html",
       "AssetKind": "All",
@@ -33,7 +33,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/default.html"
+      "OriginalItemSpec": "wwwroot\\default.html"
     }
   ]
 }
